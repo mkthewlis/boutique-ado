@@ -2,4 +2,6 @@
 
 #Boutique Ado
 
-Fullstack walkthrough project created with the *Code Institute*.
+This project was created with the fullstack tutorial from the *Code Institute*. 
+
+Follow this link to view the project live: https://boutique-ado-ci.herokuapp.com/
